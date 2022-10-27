@@ -8,7 +8,9 @@ N/A
 This application uses the VS Code integrated terminal. Once open you can access the user inputs by typing 'node index.js'. You will be asked a series of questions, which in turn will create a functioning webpage to access a team directory. 
 
 ## Links
+
 Screen castify: https://watch.screencastify.com/v/SVAaGc8x8xVm0l1txQEw
+
 Github Repository: https://github.com/D-Dursty/team-profile-generator
 
 ## License
